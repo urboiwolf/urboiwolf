@@ -7,27 +7,18 @@
 Passionate Flutter developer with a knack for creating beautiful and efficient mobile applications. With a strong foundation in Dart and experience in building cross-platform apps, I enjoy turning ideas into seamless user experiences.
 </p>
 
-##
-
 <br>
 <!---
 - Web illustrations by Storyset ( https://storyset.com/web )
 <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
 --->
-
-
-<br>
-
 - 📫 How to reach me: **anas3ez@gmail.com**.
 
 -  ![](https://komarev.com/ghpvc/?username=urbiowolf)
 
 
 <br>
-<br>
 
-
-<br>
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
